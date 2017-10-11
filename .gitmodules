@@ -1,0 +1,12 @@
+[submodule "benchstat.el"]
+	path = benchstat.el
+	url = https://github.com/Quasilyte/benchstat.el
+[submodule "n2o.el"]
+	path = n2o.el
+	url = https://github.com/Quasilyte/n2o.el
+[submodule "typ.el"]
+	path = typ.el
+	url = https://github.com/Quasilyte/typ.el
+[submodule "eldb"]
+	path = eldb
+	url = https://github.com/Quasilyte/eldb
