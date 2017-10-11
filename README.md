@@ -7,6 +7,19 @@ Lispeed = Lisp + Speed
 
 ----
 
+### Meta repository
+
+This repository is not intended for active development.  
+What you can find here:
+
+* Project overview, as a whole.
+* High-level documentation.
+* Bundle of sources via submodules[1].
+* Utility scripts and other niceties.
+
+[1] You may want to clone all
+included repositories by yourself, from their upstreams.
+
 ###  Getting the sources
 
 This repository uses submodules. Use instructions below to fetch submodules.
